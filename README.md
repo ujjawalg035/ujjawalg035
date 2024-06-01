@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ujjawal.gupta_cs22@gla.ac.in**
 
-- ⚡ Fun fact **I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ujjawal88013371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjawal88013371" height="30" width="40" /></a>
