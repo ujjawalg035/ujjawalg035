@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawalg035" alt="ujjawalg035" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/ujjawal gupta" target="blank"><img src="https://img.shields.io/twitter/follow/ujjawal88013371?logo=twitter&style=for-the-badge" alt="ujjawal88013371" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/ujjawal gupta" target="blank"><img src="https://img.shields.io/twitter/follow/ujjawalgupta?logo=linkedin&style=for-the-badge" alt="ujjawalgupta" /></a> </p>
 
 - 🌱 I’m currently learning **cloud computing , react**
 
