@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalg035&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalg035" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawalg035" alt="ujjawalg035" /></a> </p>
-
 <p align="left"> <a href="https://www.linkedin.com/in/ujjawal-gupta03/" target="blank"><img src="https://img.shields.io/twitter/follow/ujjawalgupta?logo=linkedin&style=for-the-badge" alt="ujjawalgupta" /></a> </p>
 
 - 🌱 I’m currently learning **cloud computing , ML**
 
-- 💬 Ask me about **frontend**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **ujjawal.gupta_cs22@gla.ac.in**
 
